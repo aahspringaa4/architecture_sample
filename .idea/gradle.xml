@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/data" />
             <option value="$PROJECT_DIR$/db" />
             <option value="$PROJECT_DIR$/device" />
+            <option value="$PROJECT_DIR$/di" />
             <option value="$PROJECT_DIR$/domain" />
             <option value="$PROJECT_DIR$/infra" />
             <option value="$PROJECT_DIR$/model" />
