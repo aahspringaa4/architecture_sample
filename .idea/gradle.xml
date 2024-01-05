@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/model" />
             <option value="$PROJECT_DIR$/network" />
             <option value="$PROJECT_DIR$/presentation" />
+            <option value="$PROJECT_DIR$/state" />
             <option value="$PROJECT_DIR$/storage" />
             <option value="$PROJECT_DIR$/ui" />
           </set>
