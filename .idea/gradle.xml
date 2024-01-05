@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/di" />
             <option value="$PROJECT_DIR$/domain" />
             <option value="$PROJECT_DIR$/infra" />
+            <option value="$PROJECT_DIR$/mapper" />
             <option value="$PROJECT_DIR$/model" />
             <option value="$PROJECT_DIR$/network" />
             <option value="$PROJECT_DIR$/presentation" />
